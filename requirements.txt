@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+# this is to link the txt file with setup.py
+-e . 
