@@ -27,6 +27,9 @@ class CustomException(Exception):
        return self.error_message
 
 
+# Lest test if the exception handling is working properly
+# To show the exception/error in logs, we have to import the logger.py file above
+
 # if __name__=="__main__":
 #     try:
 #         a=1/0
