@@ -3,7 +3,7 @@ The sys module in Python provides various functions and variables that are used 
 Python runtime environment 
 '''
 import sys
-import logging
+from src.logger import logging
 
 # defining a function which will show the error details for any exception
 
